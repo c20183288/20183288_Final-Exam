@@ -1,0 +1,22 @@
+﻿  20183288_허융차오_main.cpp
+C:\Users\何哈哈丶\source\repos\20183288_허융치오\Cube.h(7,21): warning C4584: “Cube”: 基类“IUpdater”已是“RenderableObject”的基类
+C:\Users\何哈哈丶\source\repos\20183288_허융치오\IUpdater.h(6): message : 参见“IUpdater”的声明
+C:\Users\何哈哈丶\source\repos\20183288_허융치오\RenderableObject.h(8): message : 参见“RenderableObject”的声明
+C:\Users\何哈哈丶\source\repos\20183288_허융치오\NianShou01.h(7,27): warning C4584: “NianShou01”: 基类“IUpdater”已是“RenderableObject”的基类
+C:\Users\何哈哈丶\source\repos\20183288_허융치오\IUpdater.h(6): message : 参见“IUpdater”的声明
+C:\Users\何哈哈丶\source\repos\20183288_허융치오\RenderableObject.h(8): message : 参见“RenderableObject”的声明
+C:\Users\何哈哈丶\source\repos\20183288_허융치오\NianShou02.h(7,27): warning C4584: “NianShou02”: 基类“IUpdater”已是“RenderableObject”的基类
+C:\Users\何哈哈丶\source\repos\20183288_허융치오\IUpdater.h(6): message : 参见“IUpdater”的声明
+C:\Users\何哈哈丶\source\repos\20183288_허융치오\RenderableObject.h(8): message : 参见“RenderableObject”的声明
+C:\Users\何哈哈丶\source\repos\20183288_허융치오\Human.h(7,22): warning C4584: “Human”: 基类“IUpdater”已是“RenderableObject”的基类
+C:\Users\何哈哈丶\source\repos\20183288_허융치오\IUpdater.h(6): message : 参见“IUpdater”的声明
+C:\Users\何哈哈丶\source\repos\20183288_허융치오\RenderableObject.h(8): message : 参见“RenderableObject”的声明
+C:\Users\何哈哈丶\source\repos\20183288_허융치오\Jiangshi.h(7,25): warning C4584: “Jiangshi”: 基类“IUpdater”已是“RenderableObject”的基类
+C:\Users\何哈哈丶\source\repos\20183288_허융치오\IUpdater.h(6): message : 参见“IUpdater”的声明
+C:\Users\何哈哈丶\source\repos\20183288_허융치오\RenderableObject.h(8): message : 参见“RenderableObject”的声明
+C:\Users\何哈哈丶\source\repos\20183288_허융치오\Camera.h(8,23): warning C4584: “Camera”: 基类“IUpdater”已是“NonRenderableObject”的基类
+C:\Users\何哈哈丶\source\repos\20183288_허융치오\IUpdater.h(6): message : 参见“IUpdater”的声明
+C:\Users\何哈哈丶\source\repos\20183288_허융치오\NonRenderableObject.h(8): message : 参见“NonRenderableObject”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+C:\Users\何哈哈丶\source\repos\20183288_허융치오\include\GLFW\glfw3.h(123): message : 参见“APIENTRY”的前一个定义
+  20183288_허융치오.vcxproj -> C:\Users\何哈哈丶\source\repos\20183288_허융치오\x64\Debug\20183288_허융치오.exe
